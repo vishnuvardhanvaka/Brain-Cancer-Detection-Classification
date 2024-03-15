@@ -18,10 +18,6 @@ The [dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-d
 
 Our final model had a 96.26% accuracy to unseen data.
 
-### Read Article
-
-To view the article published on Medium, follow [this link](https://medium.com/@danya1526/classifying-brain-cancer-tumors-with-pytorch-6ff1a26164f9). 
-
 ### View Source Code
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/BrainCancerClassification/blob/main/brain_cancer_classification.ipynb)
