@@ -20,5 +20,5 @@ Our final model had a 96.26% accuracy to unseen data.
 
 ### View Source Code
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/BrainCancerClassification/blob/main/brain_cancer_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vishnuvardhanvaka/Brain-Cancer-Detection-Classification/blob/main/Brain_Tumor_Detection.ipynb)
 
