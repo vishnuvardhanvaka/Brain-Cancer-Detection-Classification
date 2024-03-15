@@ -3,7 +3,7 @@
 
 ### About 
 
-This repository contains code for classifying the brain cancer tumors into the following classes:
+  Classifying the brain cancer tumors into the following classes:
 
 1. **Gliomas:** These are tumors that develop from glial cells, which are cells that support the neurons in the brain. Gliomas are the most common type of brain tumor.
 2. **Meningiomas:** These are tumors that develop from the meninges, which are the membranes that cover the brain and spinal cord. 
